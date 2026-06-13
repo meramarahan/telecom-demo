@@ -1,0 +1,6 @@
+@TelecomWeb_HostAddress = http://localhost:5070
+
+GET {{TelecomWeb_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
